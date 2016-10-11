@@ -1,5 +1,12 @@
 This script provides a way for caramel based applications to perform
-translations even on the client side
+translations even on the client side.
+
+
+#Depedencies
+1. JQuery 1.8 +
+2. caramel.handlebars.client.js
+
+Please insert the script after the script tags for the above libraries
 
 #Installation
 1. Copy this script to the themes/{themeName}/js folder of your caramel based jaggery application
